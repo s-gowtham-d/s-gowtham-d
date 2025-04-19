@@ -87,6 +87,7 @@
 ---
 
 ## 🐍 Snake Eating My Contribution
+![Snake animation](https://raw.githubusercontent.com/gowthamselvam809/gowthamselvam809/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <picture >
