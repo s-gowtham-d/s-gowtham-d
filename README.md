@@ -51,11 +51,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowthamselvam809&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-gowtham-d&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=gowthamselvam809&theme=github-dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=s-gowtham-d&theme=github-dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamselvam809&theme=github_dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-gowtham-d&theme=github_dark&hide_border=false&layout=compact" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gowthamselvam809&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=s-gowtham-d&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamselvam809&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-gowtham-d&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## 🔝 Most Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gowthamselvam809&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=s-gowtham-d&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
