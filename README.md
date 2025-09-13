@@ -27,7 +27,6 @@
 
 <p align="center">
   <a href="https://instagram.gowthams.info" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<!--   <a href="https://youtube.com/@codebyabi" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png" width="45"/></a> -->
   <a href="https://linkedin.gowthams.info" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:me@gowthams.info"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
